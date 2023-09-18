@@ -1,0 +1,18 @@
+itemsSold
+Cookies;Ice Cream;Sandwich;Cheese Dumplings;Coke;Orange Juice;Pepsi;
+Fish Fingers;
+Fish Fingers;
+Cinnamon Rolls;
+Chocolate Lava Cake;
+Chips;
+Chocolate Lava Cake;
+Chocolate Lava Cake;
+Chicken Burger;
+Fanta;
+Sprite;
+Lemonade;
+Lasagne;
+Beef Stew;
+Cottage Pie;
+Noodles;
+Orange Juice;Cookies;Cookies;Cookies;Cookies;Cookies;Cookies;Cookies;Chocolate Lava Cake;Chocolate Lava Cake;Cookies;

@@ -1,0 +1,33 @@
+ import matplotlib
+>>> from matplotlib import pyplot as plt
+>>> xValues = []
+>>> yValues = []
+>>> plt.plot(xValues, yValues)
+[<matplotlib.lines.Line2D object at 0x0CE71EC8>]
+>>> plt.xlabel('Day')
+Text(0.5, 0, 'Day')
+>>> plt.ylabel('Sales(£)')
+Text(0, 0.5, 'Sales(£)')
+>>> plt.title('Restaurant sales in £ in a week')
+Text(0.5, 1.0, 'Restaurant sales in £ in a week')
+>>> xValues
+[]
+>>> xValues = [1,2,3,4,5]
+>>> yValues = [100,382,748,323,333]
+>>> plt.plot(xValues, yValues)
+[<matplotlib.lines.Line2D object at 0x0CE7D8B0>]
+>>> plt.xlabel('Day')
+Text(0.5, 0, 'Day')
+>>> plt.ylabel('Sales(£)')
+Text(0, 0.5, 'Sales(£)')
+>>> plt.title('Restaurant sales in £ in a week')
+Text(0.5, 1.0, 'Restaurant sales in £ in a week')
+>>> plt.show()
+
+
+
+
+
+
+
+
